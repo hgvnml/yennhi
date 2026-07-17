@@ -30,7 +30,7 @@ const slidesData = [
 ];
 
 const localImages = Array.from(
-  { length: 10 },
+  { length: 21 },
   (_, i) => `./style/img/Anh%20(${i + 1}).jpg`,
 );
 
